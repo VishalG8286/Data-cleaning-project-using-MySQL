@@ -3,8 +3,8 @@
 📊 Exciting News: My First SQL Data Cleaning Project using MySQL 🛍️
 
 
-🔍 **Project Overview**: For this project, I worked with a Housing Dataset. This Project I complete with the help of @Alex Freberg  🛒
- **Dataset Highlights**: The dataset included customer profiles, purchase history, product details, and more. With the power of SQL, I was able to navigate and manipulate this data to extract valuable insights.
+🔍 **Project Overview**: For this project, I worked with a Housing Dataset CSV file. This Project I complete with the help of @Alex Freberg  🛒
+
 
 💡 ** What I do for clean data set using MySQL
 1.  change data type text to date
